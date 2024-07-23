@@ -1,1 +1,1 @@
-# ML-model-to-predict-if-a-customer-will-purchase-an-item-online-or-not
+This  project involves building a nearest-neighbor classifier to predict whether online shopping customers will complete a purchase based on user behavior data
